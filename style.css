@@ -1,9 +1,36 @@
-body {
-    background-color: powderblue;
-  }
-  h1 {
-    color: blue;
-  }
-  p {
-    color: red;
-  }
+.mouse {
+    background: linear-gradient(#5bb96f,#a4ca58);
+}
+.buffalo {
+    background: linear-gradient(#c651b7,#ce0911);
+}
+.tiger {
+    background: linear-gradient(#77b9fd,#4296ec);
+}
+.cat {
+    background: linear-gradient(#f8aaa0,#fdbe0d);
+}
+.dragon {
+    background: linear-gradient(#ae8eea,#f8cee9);
+}
+.snake {
+    background: linear-gradient(#f2e1af,#ed921f);
+}
+.horse {
+    background: linear-gradient(#5bb96f,#a4ca58);
+}
+.goat {
+    background: linear-gradient(#c651b7,#ce0911);
+}
+.monkey {
+    background: linear-gradient(#77b9fd,#4296ec);
+}
+.cock {
+    background: linear-gradient(#f8aaa0,#fdbe0d);
+}
+.dog {
+    background: linear-gradient(#ae8eea,#f8cee9);
+}
+.pig {
+    background: linear-gradient(#f2e1af,#ed921f);
+}
